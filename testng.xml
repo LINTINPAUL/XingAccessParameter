@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests"  name="suite">
+  <test name="TestUser1" >
+      <parameter name="username" value="teamunicorn555@gmail.com" />
+	  <parameter name="password" value="Dell#latitude2" />
+      <classes>
+      <class name="com.Xing.Access.Parameter.LoginXingParam"/>
+    </classes>
+	</test> <!-- Test -->
+   <test name="TestUser2" >
+    <parameter name="username" value="teamunicorn555@gmail.com" />
+	 <parameter name="password" value="Dell#latitude2" />
+    <classes>
+      <class name="com.Xing.Access.Parameter.LoginXingParam"/>
+    </classes>
+  </test> <!-- Test -->
+	<test name="TestUser3" >
+	<parameter name="username" value="teamunicorn555@gmail.com" />
+	 <parameter name="password" value="Dell#latitude2" />
+    <classes>
+      <class name="com.Xing.Access.Parameter.LoginXingParam"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

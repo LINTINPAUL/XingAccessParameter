@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite" duration-ms="21608" started-at="2022-11-08T14:54:47 GMT" finished-at="2022-11-08T14:55:09 GMT">
+    <groups>
+    </groups>
+    <test name="TestUser1" duration-ms="20059" started-at="2022-11-08T14:54:47 GMT" finished-at="2022-11-08T14:55:07 GMT">
+      <class name="com.Xing.Access.Parameter.LoginXingParam">
+        <test-method status="PASS" signature="xing(java.lang.String,java.lang.String)[pri:0, instance:com.Xing.Access.Parameter.LoginXingParam@42607a4f]" name="xing" duration-ms="20033" started-at="2022-11-08T14:54:47 GMT" finished-at="2022-11-08T14:55:07 GMT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[teamunicorn555@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dell#latitude2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xing -->
+      </class> <!-- com.Xing.Access.Parameter.LoginXingParam -->
+    </test> <!-- TestUser1 -->
+    <test name="TestUser3" duration-ms="21471" started-at="2022-11-08T14:54:47 GMT" finished-at="2022-11-08T14:55:09 GMT">
+      <class name="com.Xing.Access.Parameter.LoginXingParam">
+        <test-method status="PASS" signature="xing(java.lang.String,java.lang.String)[pri:0, instance:com.Xing.Access.Parameter.LoginXingParam@2f8f5f62]" name="xing" duration-ms="21446" started-at="2022-11-08T14:54:47 GMT" finished-at="2022-11-08T14:55:09 GMT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[teamunicorn555@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dell#latitude2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xing -->
+      </class> <!-- com.Xing.Access.Parameter.LoginXingParam -->
+    </test> <!-- TestUser3 -->
+    <test name="TestUser2" duration-ms="21608" started-at="2022-11-08T14:54:47 GMT" finished-at="2022-11-08T14:55:09 GMT">
+      <class name="com.Xing.Access.Parameter.LoginXingParam">
+        <test-method status="PASS" signature="xing(java.lang.String,java.lang.String)[pri:0, instance:com.Xing.Access.Parameter.LoginXingParam@61ca2dfa]" name="xing" duration-ms="21583" started-at="2022-11-08T14:54:47 GMT" finished-at="2022-11-08T14:55:09 GMT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[teamunicorn555@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dell#latitude2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xing -->
+      </class> <!-- com.Xing.Access.Parameter.LoginXingParam -->
+    </test> <!-- TestUser2 -->
+  </suite> <!-- suite -->
+</testng-results>
